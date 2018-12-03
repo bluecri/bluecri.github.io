@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Review
-slug: review
+title: Memo
+slug: memo
 menu: true
 submenu: false
-order: 6
+order: 8
 description: >
-  리뷰
+  메모
 ---
